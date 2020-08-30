@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-course",
+  "version": "12.18.2",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whyme16/Intro-to-Nodejs.git"
+  },
+  "author": "Kah-Y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whyme16/Intro-to-Nodejs/issues"
+  },
+  "homepage": "https://github.com/whyme16/Intro-to-Nodejs#readme"
+}
